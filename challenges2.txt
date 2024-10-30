@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link href="css/style2.css" type="text/css" rel="stylesheet" />
+</head>
+<body>
+    <div id="topmenu">
+        <img src="agrphotos/treelogo.png" height="60" width="60">
+        <a href="home2.html"><h3 id="one">Home</h3></a>
+        <a href="photo2.html"><h3 id="two">Photos</h3></a>
+    </div>
+
+    <div id="bar">
+        <p>.</p>
+    </div>
+<div>
+    <div>
+        <h1 id="challenges"> The Challenges We Face</h1>
+    <div id="challenges">Challenges in the agricultural sector</div>
+        <p id="openingstatment">Uganda is among the leading producers of coffee, bananas, and oil seed crops (sesame, soybean, sunflower, etc.).<br />
+        It is also a major producer of other crops like tea, cotton, organic cotton, tobacco, cereals, <br /> fresh foods and vegetables, nuts, essential oils, flowers, poultry, and freshwater fish.</p>
+    </div>
+    <div id="openingstatment">
+        <p>
+            <ol>
+                <li >Technology related factor
+                    <ul>
+                        <li>Inadequate research and training</li>
+                        <li>Prevalence of pests and diseases</li>
+                    </ul>
+                </li>
+                <li>Nature related factors
+                    <ul>
+                        <li>Degradation of natural resources</li>
+                        <li>Climatic and weather unpredictability</li>
+                    </ul>
+                </li>
+                <li>Cross cutting and cross-sectoral related factors
+                    <ul>
+                        <li>High incidence of poverty</li>
+                        <li>Inadequate social infrastructure</li>
+                        <li>Gender inequality</li>
+                    </ul>
+                </li>
+            </ol>
+        </p>
+    </div>
+</div> 
+</body>
+</html>
